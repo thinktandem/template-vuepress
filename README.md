@@ -23,6 +23,9 @@ lando yarn dev
 ### Testing
 
 ```bash
+# Run the VueJS linter
+lando lint
+
 # Run the markdown linter
 lando test
 ```
