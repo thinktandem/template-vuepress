@@ -14,14 +14,10 @@ module.exports = {
     editLinks: true,
     editLinkText: 'Edit Link Text',
     nav: [
-      { text: 'Home', link: '/home/' },
       { text: 'Test Directory', link: '/test-dir/' },
       { text: 'Tandem Website', link: 'https://thinktandem.io' },
     ],
     sidebar: {
-      '/home/': [
-        '',
-      ],
       '/test-dir/': [
         {
           title: 'Stuff',

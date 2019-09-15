@@ -1,7 +1,7 @@
 ---
 home: true
-actionText: Home
-actionLink: /home/
 ---
 
 # VuePress Template
+
+Use this as a starter for all VuePress projects.
