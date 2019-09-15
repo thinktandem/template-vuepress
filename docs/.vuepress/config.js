@@ -46,8 +46,8 @@ module.exports = {
           children: [
             'things',
           ],
-        }
+        },
       ],
-    }
-  }
-}
+    },
+  },
+};
