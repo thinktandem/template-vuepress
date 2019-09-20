@@ -1,6 +1,10 @@
 # VuePress Template
 
-Use this template to easily spin up VuePress sites to use locally and on platform.sh
+Use this template to easily spin up VuePress sites to use locally and on platform.sh.
+
+This template has its own subtheme that extends the [default VuePress theme](https://github.com/vuejs/vuepress/tree/master/packages/%40vuepress/theme-default).
+
+__TODO: Write about components and slots and all that fun stuff__   
 
 ### Developing
 
