@@ -24,9 +24,9 @@
     "vuepress-plugin-sitemap": "https://github.com/ekoeryanto/vuepress-plugin-sitemap#dd8b9763b2c7939668a67f2afa34de501dea45d4"
   },
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs -d _book",
-    "lint": "eslint  --quiet --ext .js,.vue --no-ignore --config .eslintrc.json docs/.vuepress/**/*.js",
-    "test": "markdownlint README.md docs/**/*.md docs/*.md"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src -d _book",
+    "lint": "eslint  --quiet --ext .js,.vue --no-ignore --config .eslintrc.json src/.vuepress/**/*.js",
+    "test": "markdownlint README.md src/**/*.md src/*.md"
   }
 }
